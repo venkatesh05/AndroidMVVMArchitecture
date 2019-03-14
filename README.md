@@ -1,4 +1,4 @@
-# AndroidMVVMArchitecture
+# Android MVVM Architecture
 Room + ViewModel + LiveData + RecyclerView (MVVM) - Android Architecture components and Migrated to Android Jetpack
 
 This app using the Android Architecture Component libraries (Room, ViewModel, LiveData and LifeCycle), a RecyclerView and Java. The data will be stored in an SQLite database and supports insert, read, update and delete operations
